@@ -6,6 +6,8 @@ This repository contains a custom navigation bar (navbar) built using HTML, CSS,
 
 ## Preview
 
+Link : https://multi-dropdown-navbar.netlify.app/
+
 ![App Screenshot](https://i.imgur.com/vBogD3j.jpg)
 
 ## Technologies Used
